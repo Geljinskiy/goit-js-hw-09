@@ -1,0 +1,16 @@
+[data-start],
+[data-stop] {
+  border: none;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  /* reset styles */
+
+  height: 40px;
+  min-width: 90px;
+
+  padding: 0 14px;
+
+  font-weight: 600;
+  cursor: pointer;
+}
